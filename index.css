@@ -1,3 +1,14 @@
 body {
+    opacity: 0.9;
+    background-image: url("https://trangdocbao.com/wp-content/uploads/2021/05/ka1-1620019698550186386241.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
 
+.monaco-workbench .part.titlebar>.titlebar-drag-region {
+  background-color: #1E2227;
+}
+
+.monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container {
+  background-color: #1E2227;
 }
