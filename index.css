@@ -12,3 +12,24 @@ body {
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container {
   background-color: #1E2227;
 }
+
+.mtk17 {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.mtk8 {
+    font-style: italic;
+}
+
+.mtk11 {
+    font-style: italic;
+}
+
+.mtk15 {
+    font-weight: 600;
+}
+
+.mtk15 {
+    font-style: italic;
+}
