@@ -1,9 +1,9 @@
-body {
+/* body {
     opacity: 0.97;
     background-image: url("/Users/asta/BG-Image/bg.jpeg");
     background-size: cover;
     background-repeat: no-repeat;
-}
+} */
 
 .monaco-workbench .part.titlebar>.titlebar-drag-region {
   background-color: #1E2227;
