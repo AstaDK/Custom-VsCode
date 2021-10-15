@@ -1,0 +1,95 @@
+{
+  // "javascript.inlayHints.parameterNames.enabled": "all",
+  // "typescript.inlayHints.parameterNames.enabled": "all",
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "workbench.colorCustomizations": {
+    "statusBar.background": "#212225",
+    "statusBar.noFolderBackground": "#212225",
+    "statusBar.debuggingBackground": "#212225",
+    "statusBar.foreground": "#ffffff",
+    "[Default Dark+]": {
+      "editor.background": "#1E2227",
+      "sideBar.background": "#1E2227",
+      "sideBarTitle.foreground": "#3c4641",
+      "sideBar.dropBackground": "#0c0b0b",
+      "sideBarSectionHeader.foreground": "#b8b7b7",
+      "activityBar.background": "#1E2227",
+      "activityBar.foreground": "#3c4641",
+      "activityBarBadge.foreground": "#1b1b1b",
+      "activityBarBadge.background": "#ffffff",
+      "tab.activeForeground": "#e7ffed",
+      "terminalCursor.foreground": "#ffffff",
+      "panelTitle.activeBorder": "#ffffff",
+      "panelTitle.activeForeground": "#ffffff",
+      "panelTitle.inactiveForeground": "#3c4641",
+      "breadcrumb.foreground": "#3c4641",
+      "editorLineNumber.foreground": "#3c4641",
+      "editorIndentGuide.background": "#3c4641"
+    },
+    "statusBar.debuggingForeground": "#434C5E"
+  },
+  "editor.lineNumbers": "relative",
+  "workbench.iconTheme": "vscode-icons",
+  "window.zoomLevel": -0.2,
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "vscode_custom_css.imports": [
+    "https://raw.githubusercontent.com/AstaDK/Custom-VsCode/master/index.css",
+  ],
+  "editor.linkedEditing": true,
+  "update.mode": "none",
+  "workbench.colorTheme": "Default Dark+",
+  "[javascriptreact, javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "never",
+  "emmet.includeLanguages": {
+    "vue-html": "html",
+    "javascript": "javascriptreact",
+    "edge": "html"
+  },
+  "emmet.triggerExpansionOnTab": true,
+  "editor.wordWrap": "on",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.list.smoothScrolling": true,
+  "editor.cursorSmoothCaretAnimation": true,
+  "editor.smoothScrolling": true,
+  /** ================== Vim config ❤ ===================== */
+  /** Config status bar for each mode */
+  // "vim.statusBarColorControl": true,
+  // "vim.statusBarColors.normal": [
+  //   "#8FBCBB",
+  //   "#434C5E"
+  // ],
+  // "vim.statusBarColors.insert": "#BF616A",
+  // "vim.statusBarColors.visual": "#B48EAD",
+  // "vim.statusBarColors.visualline": "#B48EAD",
+  // "vim.statusBarColors.visualblock": "#A3BE8C",
+  // "vim.statusBarColors.replace": "#D08770",
+  /** Config vim easymotion */
+  "vim.easymotion": true,
+  "vim.easymotionMarkerBackgroundColor": "transparent",
+  "vim.easymotionMarkerForegroundColorOneChar": "red",
+  "vim.easymotionMarkerFontWeight": "bold",
+  "vim.leader": "space",
+}
