@@ -6,11 +6,11 @@
 } */
 
 .monaco-workbench .part.titlebar>.titlebar-drag-region {
-  background-color: #121212;
+  background-color: #010409;
 }
 
 .monaco-workbench .part.editor>.content .editor-group-container>.title .tabs-container {
-  background-color: #121212;
+  background-color: #010409;
 }
 
 .mtk17 {
