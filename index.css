@@ -41,3 +41,11 @@
 .mtk16 {
     font-style: italic;
 }
+
+/* Type Params  */
+.dyn-rule-2-9 {
+    color: 'rgb(140 137 137 / 80%)' !importand;
+}
+.dyn-rule-2-10 {
+     color: 'rgb(140 137 137 / 80%)' !importand;
+}
